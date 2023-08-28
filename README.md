@@ -1,0 +1,2 @@
+# sciml
+Playground for SciML
